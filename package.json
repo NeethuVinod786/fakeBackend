@@ -1,0 +1,23 @@
+{
+  "name": "fakebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeethuVinod786/fakeBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeethuVinod786/fakeBackend/issues"
+  },
+  "homepage": "https://github.com/NeethuVinod786/fakeBackend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
